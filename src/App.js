@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./components/Header";
 import Services from "./components/Services";
 import Features from "./components/Features";
-import Subscribe from "./components/Subscribe";
+import Contacto from "./components/Contacto";
 import Galeria from "./components/Galeria";
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
       </div>
       <Features/>
       <Galeria/>
-      <Subscribe/>
+      <Contacto/>
     </div>
   );
 }

@@ -18,7 +18,7 @@ function Navbar() {
           <li><Link to='quienes-somos' smooth={true} duration={2000}>Quienes somos</Link></li>
           <li><Link to='features' smooth={true} duration={2000}>Proyecto</Link></li>
           <li><Link to='galeria' smooth={true} duration={2000}>Galería</Link></li>
-          <li><Link to='suscribe' smooth={true} duration={2000}>Contacto</Link></li>
+          <li><Link to='contacto' smooth={true} duration={2000}>Contacto</Link></li>
         </ul>
         <Link to='#' className='hey'>Smart Guide</Link>
       </nav>

@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Subscribe() {
+function Contacto() {
   return (
-    <div id='subscribe'>
+    <div id='contacto'>
         <h3>Contacto</h3>
         <div className='subscribe-input'>
             <input type="email" placeholder='example@gmail.com'/>
@@ -12,4 +12,4 @@ function Subscribe() {
   )
 }
 
-export default Subscribe;
+export default Contacto;
