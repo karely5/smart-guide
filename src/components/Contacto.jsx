@@ -6,7 +6,7 @@ function Contacto() {
         <h3>Contacto</h3>
         <div className='subscribe-input'>
             <input type="email" placeholder='example@gmail.com'/>
-            <a href="#">Continue</a>
+            <a href="#">Continua</a>
         </div>
     </div>
   )
